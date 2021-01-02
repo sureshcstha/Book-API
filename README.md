@@ -1,1 +1,1 @@
-# CS3620_BookAPI
+# Book API
